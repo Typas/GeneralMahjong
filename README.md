@@ -1,4 +1,4 @@
-# 通用麻雀 General Mahjong #
+# 通用麻雀 General Mahjong v0.6.1 #
 
 參考自日本麻雀競技規則、中國競技麻將規則與關兆豪先生所著之[中庸麻雀計分法][1]。目標為容易上手並兼具競技性的無起和限制麻將規則。
 
@@ -38,15 +38,11 @@ Note: these original edition of rules are only written in Traditional Chinese.
 
 #### 弱下位役種
 
-系列役種之最上位役種同時符合簡單限制與性質重複原則，但其下位役僅部分符合者稱為弱下位役種，其根據性較弱，故需有分數上減弱調整。目前役種表中斷幺九、二暗刻、一槓子、二槓子皆為弱下位役種。
-
+系列役種之最上位役種同時符合簡單限制與性質重複原則，但其下位役僅部分符合者稱為弱下位役種，其根據性較弱，難以取捨牌判斷，故需有分數上減弱調整。目前役種表中斷幺九、二暗刻、一槓子、二槓子皆為弱下位役種。
 
 ### 支付法
 
 原則為自摸與銃和之收入不能有差異。
-
-## 贊助 Donation ##
-Donate me in Ethereum: typas.eth
 
 [1]: http://www.zj-mahjong.info/book_hk/1.0%20zj33_rules_hk.html "中庸麻雀計分法"
 [2]: http://www.zj-mahjong.info/zj33_patterns_eng.html "Zung Jung Mahjong"
