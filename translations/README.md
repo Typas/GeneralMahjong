@@ -2,11 +2,11 @@
 
 ### en-US ###
 _Machine translation (AI); the Traditional Chinese source is authoritative._
-- [Rule](./en-US/rule.md): 0.6.1
-- [Score](./en-US/score.md): 0.6.1
-  - [Score Table](./en-US/table.md): 0.6.1
-- [Payment](./en-US/payment.md): 0.6.1
-- [FAQ](./en-US/faq.md): 0.6.1
+- [Rule](./en-US/rule.md): 0.6.4
+- [Score](./en-US/score.md): 0.6.4
+  - [Score Table](./en-US/table.md): 0.6.4
+- [Payment](./en-US/payment.md): 0.6.4
+- [FAQ](./en-US/faq.md): 0.6.4
 
 # Notes for Translation #
 

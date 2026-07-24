@@ -10,7 +10,7 @@
 
 ## Dealer-Doubled Discarder-Pays System ##
 
-The same as Japanese Mahjong, except there are no exhaustive-draw penalty points and no keeping-the-deal bonus.
+The same as Japanese Mahjong, except there are no washout penalty points and no keeping-the-deal bonus.
 
 ### Win by Draw ###
 
@@ -22,7 +22,7 @@ The same as Japanese Mahjong, except there are no exhaustive-draw penalty points
 1. Non-dealer win by discard: the player dealing in pays four times the winning score.
 2. Dealer win by discard: the player dealing in pays six times the winning score.
 
-### Exhaustive Draw ###
+### Washout ###
 
 No penalty points; every player's income and payment are zero.
 
@@ -36,38 +36,38 @@ On a win by draw, the other three players each pay the winner one times the winn
 
 ### Win by Discard ###
 
-On a win by discard, if the hand scores less than 3 points, it is treated as a win by draw;
+On a win by discard, if the winning score is less than 3 points, it is treated as a win by draw;
 if it reaches 3 points or more, the two uninvolved seats each pay 3 points and the player dealing in pays the remaining points.
 
-### Exhaustive Draw ###
+### Washout ###
 
 No penalty points; every player's income and payment are zero.
 
 ## Equal-Pay System ##
 
-Whether by win by draw or by dealing in, the other three players each pay the winner one times the winning score, for three times in total. No penalty points on an exhaustive draw.
+Whether by win by draw or by dealing in, the other three players each pay the winner one times the winning score, for three times in total. No penalty points on a washout.
 
 ## Near-Classical System ##
 
 The dealer has no doubling; all payments are one times the winning score.
-On a win, all four players open their owned sets and pay according to the total of hand scores.
-The hands are determined by the decomposed melds.
+On a win, all four players open their hands and pay according to the total of pattern scores.
+The patterns are determined by the decomposed melds.
 
-### Hand Classification ###
+### Pattern Classification ###
 
-Because this system must consider non-winners' scores, hand types are split into three classes.
+Because this system must consider non-winners' scores, patterns are split into three classes.
 
 #### Action Type ####
 
 Countable only for the winner.
-All Chance-category hand types are action type;
-Fully Concealed Hand and All Claimed are also action type.
+All Chance-category patterns are action type;
+Fully Concealed and All Claimed are also action type.
 
 #### Whole-Hand Type ####
 
-Countable only for the winner; requires the entire set to conform to its rule.
+Countable only for the winner; requires the entire hand to conform to its rule.
 
-- Special winning sets
+- Special winning shapes
 - Terminals category
 - Single-Suit category
 
@@ -96,8 +96,8 @@ The player dealing in cannot receive any points.
 
 #### Uninvolved ####
 
-The uninvolved seat receives the total hand score of that player's owned set from the two players other than the winner.
+The uninvolved seat receives the total pattern score of that player's hand from the two players other than the winner.
 
-### Exhaustive Draw ###
+### Washout ###
 
 No penalty points; every player's income and payment are zero.
