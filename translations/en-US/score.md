@@ -6,14 +6,14 @@
 ## Scoring Rules ##
 1. A hand with no pattern may still win, but scores 0 points.
 2. Outside the General category, same category does not count multiple times; special winning shapes are covered in the pattern descriptions.
-3. If the set can be split into multiple combinations, compute the score of each combination and take the highest-scoring combination's score as the score.
+3. If the hand can be split into multiple combinations, compute the score of each combination and take the highest-scoring combination's score as the score.
 4. The score cap is 32 points; a total exceeding 32 points is counted as 32 points, and this cap is called the "score cap".
 
 # Categories and Descriptions #
 
 ## Special Winning Shapes ##
 
-Winning shapes *other* than the basic winning shape (1 pair plus 4 sets).
+Winning shapes *other* than the basic winning shape (1 pair plus 4 melds).
 
 #### Seven Pairs: 3 points
 
@@ -39,7 +39,7 @@ Win by draw, with no chow, pung, or open quartet (added kong, claimed kong) befo
 
 #### All Claimed: 2 points
 
-All four sets before the win came from chow, pung, or open quartet, and the win is by discard.
+All four melds before the win came from chow, pung, or open quartet, and the win is by discard.
 
 #### Value Honors: 2 points
 
@@ -71,7 +71,7 @@ Win by draw on the replacement tile (the tile drawn from the wall tail after a k
 
 #### Robbing a Kong: 2 points
 
-Win by discard via "Robbing a Kong" when another player calling an added kong.
+Win by discard via "Robbing a Kong" when another player declares an added kong.
 
 #### Heavenly Draw: 12 points
 
