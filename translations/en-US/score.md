@@ -39,7 +39,7 @@ Win by draw, with no chow, pung, or open quartet (added kong, claimed kong) befo
 
 #### All Claimed: 2 points
 
-All four melds before the win came from chow, pung, or open quartet, and the win is by discard.
+All four melds are open melds, and the win is by discard.
 
 #### Value Honors: 2 points
 
