@@ -5,25 +5,25 @@
 
 ## Scoring Rules ##
 1. A hand with no pattern may still win, but scores 0 points.
-2. Outside the General category, same category does not count multiple times; special winning shapes are covered in the pattern descriptions.
-3. If the hand can be split into multiple combinations, compute the score of each combination and take the highest-scoring combination's score as the score.
-4. The score cap is 32 points; a total exceeding 32 points is counted as 32 points, and this cap is called the "score cap".
+2. Outside the General category, a category counts only once; special winning shapes are covered in the pattern descriptions.
+3. If the hand can be split into multiple combinations, compute the score of each combination and take the combination with the highest score as the hand's score.
+4. The maximum score is 32 points; a total exceeding 32 points is counted as 32. This limit is the score cap.
 
 # Categories and Descriptions #
 
-## Special Winning Shapes ##
+## Special-Shape category ##
 
 Winning shapes *other* than the basic winning shape (1 pair plus 4 melds).
 
 #### Seven Pairs: 3 points
 
 The hand consists of seven pairs; four tiles of the same kind that do not form a quartet may also count as two pairs.
-May only be combined for scoring with Fully Concealed, the Chance category, All Simples, Common Terminals, Perfect Terminals, and the Single-Suit category.
+May only be combined for scoring with All Concealed, the Chance category, All Simples, Common Terminals, Perfect Terminals, and the Single-Suit category.
 
 #### Thirteen Orphans: 16 points
 
 One of each of the thirteen orphan tiles, plus any one orphan tile, forms the win. The waiting shape is unrestricted.
-May only be combined for scoring with Fully Concealed and the Chance category.
+May only be combined for scoring with All Concealed and the Chance category.
 
 ## General category ##
 
@@ -33,13 +33,13 @@ Each of these can stand as its own category, so they are combined into the Gener
 
 The hand has one pair and four sequences. The pair may be any kind of tile, and the waiting shape does not matter.
 
-#### Fully Concealed: 2 points
+#### All Concealed: 2 points
 
-Win by draw, with no chow, pung, or open quartet (added kong, claimed kong) before the win.
+No open meld before the win, and the win is by self-draw.
 
 #### All Claimed: 2 points
 
-All four melds are open melds, and the win is by discard.
+All four melds are open melds, and the win is by claiming a tile.
 
 #### Value Honors: 2 points
 
@@ -57,51 +57,51 @@ The hand has one pair and four triplets or quartets, with no sequence.
 
 Independent of the hand's content, these are bonus points awarded for a low-probability event.
 
-#### Last Tile Draw: 2 points
+#### Eleventh Hour: 2 points
 
-Win by draw on the last live wall tile (the last tile in the wall other than the dead wall).
+Win by self-draw on the wall end (the last tile in the wall other than the dead wall).
 
-#### Last Tile Claim: 2 points
+#### Charon's Catch: 2 points
 
-Win by discard on the last discard (the tile discarded by another player after the last live wall tile is drawn).
+Win by claiming on the river end (the tile discarded by another player after the wall end is drawn).
 
-#### After a Kong: 2 points
+#### Fortuna's Boon: 2 points
 
-Win by draw on the replacement tile (the tile drawn from the wall tail after a kong).
+Win by self-draw on the boon tile (the tile drawn from the wall tail after a kong).
 
 #### Robbing a Kong: 2 points
 
-Win by discard via "Robbing a Kong" when another player declares an added kong.
+Win by claiming via "Robbing a Kong" when another player declares an added kong.
 
-#### Heavenly Draw: 12 points
+#### Gift of Chaos: 12 points
 
 The dealer's 14 dealt tiles already form a winning shape.
 
-#### Earthly Draw: 12 points
+#### Gift of Gaia: 12 points
 
-A non-dealer wins by draw on their first draw, regardless of whether other players have claimed.
+A non-dealer wins by self-draw on their first draw, regardless of whether other players have claimed.
 
 ## Honors category ##
 
-#### Little Three Dragons: 6 points
+#### Lesser Three Dragons: 6 points
 
 The hand has two triplets or quartets of dragons and a pair of dragons.
 
-#### Big Three Dragons: 8 points
+#### Greater Three Dragons: 8 points
 
 The hand has three triplets or quartets of dragons.
 
-#### Little Four Winds: 16 points
+#### Lesser Four Winds: 16 points
 
 The hand has three triplets or quartets of winds, plus a pair of winds.
 
-#### Big Four Winds: 32 points
+#### Greater Four Winds: 32 points
 
 The hand has four triplets or quartets of winds.
 
 ## Terminals category ##
 
-The hand is composed entirely of, or entirely without, orphan-related tiles.
+The hand is composed entirely of, or entirely free of, orphan-related tiles.
 
 #### All Simples: 1 point
 
@@ -139,7 +139,7 @@ The hand is composed entirely of number tiles of a single suit.
 
 The hand is composed entirely of honor tiles.
 
-#### Nine Gates: 32 points
+#### Nine Choirs: 32 points
 
 A Perfect Flush in the nine-sided waiting shape "1112345678999", winning on any number tile of the same suit.
 
@@ -171,7 +171,7 @@ The hand has two Doubled Sequences.
 
 The hand has three completely identical sequences.
 
-#### Quadrupled Sequence: 16 points
+#### Quadrupled Sequence: 32 points
 
 The hand has four completely identical sequences.
 

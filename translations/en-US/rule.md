@@ -13,7 +13,7 @@ These rules refer to the [World Mahjong Championship rules][1] (the site is now 
 5. Number tiles: three suits, comprising the "Dot suit", the "Bamboo suit", and the "Character suit". Each suit has 9 kinds numbered 1 to 9, for 27 kinds in total.
 6. Honor tiles: the four "winds" -- East, South, West, North -- and the three "dragons" -- White, Green, Red -- for 7 kinds in total.
 7. Orphan tiles: the 1 and 9 of each number suit (6 kinds) plus the 7 honor tiles, 13 kinds in total, are called orphan tiles.
-   * Terminal tiles: the part of the orphan tiles excluding the honor tiles is called terminal tiles.
+   * Terminal tiles: the orphan tiles other than the honor tiles are called terminal tiles.
 8. Simple tiles: the 2 through 8 of each number suit, 21 kinds, are simple tiles.
 
 # Dealer and Seat Honor #
@@ -42,7 +42,7 @@ The procedure is as follows:
 3. Take any one odd-numbered tile and one even-numbered tile, place them face up at the two ends of the row, forming a row of six.
 4. Any player rolls the dice and counts the position roll; the player thus indicated rolls again.
 5. From the position roll of the second roll, each player in turn takes one honor tile going counter-clockwise. If the rolled total is odd, tiles are taken from the odd-tile end toward the even-tile end; if even, from the even-tile end toward the odd-tile end.
-6. Whoever draws the "East" honor tile is the initial dealer and sits at the position marked "East" on the table, or need not move if there is none. Whoever draws "South" sits to their right (the next seat), whoever draws "West" sits opposite them (the opposite seat), and whoever draws "North" sits to their left (the previous seat).
+6. Whoever draws the "East" honor tile is the initial dealer and sits at the position marked "East" on the table; if the table has no such marking, they need not move. Whoever draws "South" sits to their right (the next seat), whoever draws "West" sits opposite them (the opposite seat), and whoever draws "North" sits to their left (the previous seat).
 
 ## Cycle Honor ##
 Every four rounds make one cycle, and the cycle honor rotates East, South, West, North.
@@ -65,10 +65,10 @@ Once built, push the rows toward the center so the four walls form an approximat
 ### Deal ###
 Tiles are taken clockwise, starting from the wall head.
 1. The East player first takes two stacks, then North, West, and South each take two stacks in that order.
-2. Repeat the previous step three times, until each player has 12 tiles.
+2. Carry out the previous step three times in total, until each player has 12 tiles.
 3. The East player takes the first and fifth tiles from the wall head (the top tiles of the first and third stacks), then North, West, and South each take one tile in that order.
 4. At this point the dealer should have 14 tiles and each non-dealer 13 tiles.
-5. During the deal, before the tile count is confirmed correct, do not touch the underside of the tiles or look at your hand; keep the tiles face down until all four players confirm the deal counts are correct.
+5. During the deal, before the tile count is confirmed correct, do not touch the underside of the tiles or look at one's hand; keep the tiles face down until all four players confirm the deal counts are correct.
 
 ### Draw-and-Discard ###
 1. After the deal, the East player discards one tile first.
@@ -77,47 +77,47 @@ Tiles are taken clockwise, starting from the wall head.
 4. Draw-and-discard continues until someone wins or a washout occurs.
 
 ### Declaration ###
-1. A discarded tile may be "claimed" by another player to win by discard or to complete a "basic meld".
+1. A discarded tile may be "claimed" by another player to win by claiming a tile or to complete a "basic meld".
 2. Only the tile just discarded may be claimed; once the next player discards, the previously discarded tile can no longer be claimed.
-3. To claim in order to complete a meld, the whole meld must be revealed as an open meld, placed in an obvious spot distinct from the river and the concealed portion.
+3. To claim in order to complete a meld, the whole meld must be revealed as an open meld, placed in an obvious spot distinct from the river and the undeclared tiles.
 4. There are four kinds of declaration: win, chow, pung, and kong; priority for simultaneous declarations is covered in the detailed rules.
 5. The declarer must announce first. One who does not announce has no priority, and other players may ignore their action and continue draw-and-discard.
 
 #### Chow ####
-1. If a tile discarded by the previous seat combines with two tiles in one's concealed portion to form a "sequence", one may declare "chow" and take that tile together with one's two concealed tiles to form an "open sequence".
-2. Besides being placed in the position for claimed melds, this meld is arranged low to high from left to right, with the tile discarded by the previous seat laid sideways to show it was taken by chow.
-3. After declaring "chow", wait one second to confirm no other player has another declaration, then reveal one's two concealed tiles to form the open sequence.
+1. If a tile discarded by the previous seat combines with two tiles in one's undeclared tiles to form a "sequence", one may declare "chow" and take that tile together with one's two undeclared tiles to form an "open sequence".
+2. Besides being placed in the claim area, this meld is arranged low to high from left to right, with the tile discarded by the previous seat laid sideways to show it was taken by chow.
+3. After declaring "chow", wait one second to confirm no other player has another declaration, then reveal one's two undeclared tiles to form the open sequence.
 
 #### Pung ####
-1. If a tile discarded by another player matches the kind of one's pair in concealed portion, one may declare "pung" and take that tile to form an "open triplet".
+1. If a tile discarded by another player matches the kind of one's pair in undeclared tiles, one may declare "pung" and take that tile to form an "open triplet".
 2. The punged tile must indicate which player it came from: if discarded by the next seat, lay the rightmost tile sideways; if by the opposite seat, the middle tile; if by the previous seat, the leftmost tile.
 
 #### Kong ####
-1. Four identical tiles become a "quartet" after a "kong". A kong is of three kinds: "concealed kong", "added kong", and "claimed kong". A kong must be followed by a "replacement draw".
-2. Concealed kong: when the hand holds four identical tiles, one may make a concealed kong. It is done after one's draw (including after the dealer's deal, or after a replacement draw) or after a chow or pung, before discarding. After declaring "kong", first reveal the four tiles to the other players to confirm they are identical, then place them in the claim area with the middle two face up and the two ends face down.
+1. Four identical tiles become a "quartet" after a "kong". A kong is of three kinds: "concealed kong", "added kong", and "claimed kong". A kong must be followed by a "boon draw".
+2. Concealed kong: when the hand holds four identical tiles, one may make a concealed kong. It is done after one's draw (including after the dealer's deal, or after a boon draw) or after a chow or pung, before discarding. After declaring "kong", first reveal the four tiles to the other players to confirm they are identical, then place them in the claim area with the middle two face up and the two ends face down.
 3. Added kong: when the hand holds a tile identical to one's open triplet, one may declare kong to make an added kong. Its timing is the same as that of the concealed kong. After declaring "kong", reveal that tile and add it to the end of the open triplet not laid sideways, forming an "open quartet".
-4. Claimed kong: if a tile discarded by another player matches one's concealed triplet in hand, one may declare "kong" and take that tile with the concealed triplet to form an "open quartet". As with the open triplet, indicate which player it came from: if discarded by the next seat, lay the rightmost tile sideways; if by the previous seat, lay the leftmost tile sideways.
+4. Claimed kong: if a tile discarded by another player matches one's concealed triplet in hand, one may declare "kong" and take that tile with the concealed triplet to form an "open quartet". As with the open triplet, indicate which player it came from: if discarded by the next seat, lay the rightmost tile sideways; if by the opposite seat, lay one of the middle tiles sideways; if by the previous seat, lay the leftmost tile sideways.
 5. When an opponent's discard matches one's open triplet, no kong may be made.
-6. Replacement draw: after a kong, a "replacement draw" must be made, drawing one tile from the "wall tail", called the "replacement tile". A replacement tile that exactly completes a win is called "After a Kong", a win by draw. After the replacement draw, if there is no win, one tile must be discarded.
+6. Boon draw: after a kong, a "boon draw" must be made, drawing one tile from the "wall tail", called the "boon tile". A boon tile that exactly completes a win is called "Fortuna's Boon", a self-draw win. After the boon draw, if there is no win, one tile must be discarded.
 
 #### Robbing a Kong ####
-When another player makes an "added kong" and that tile is exactly one of the tiles one is waiting on, one may declare "win" or "wu" and take that tile to complete the win, called "Robbing a Kong"; the kong-maker is then treated as dealing in.
+When another player makes an "added kong" and that tile is exactly one of the tiles one is waiting on, one may declare "win" or "wu" and take that tile to complete the win, called "Robbing a Kong"; the kong-maker is then treated as ceding the tile.
 
 #### Win ####
 1. Waiting: when the hand is one tile short of completing a winning shape, it is "waiting".
-2. Win by draw: during draw-and-discard, when the drawn tile exactly completes the winning shape, it is a "win by draw". The player should declare "win", "wu" or "zimo" to announce the win.
-3. Win by discard: when a tile discarded by another player exactly completes the winning shape, one may declare "win" or "wu" and take that tile to complete the win. This is a "win by discard"; the act of discarding that tile is "dealing in".
-4. On winning, reveal the concealed portion and lay out the winning shape, split into open-meld and concealed-meld areas, then score by this winning shape; after the other players confirm the winning shape and the calculated score are correct, the scores are paid (see "Winning Shape", "Scoring" and "Payment").
+2. Self-Draw Win: during draw-and-discard, when the drawn tile exactly completes the winning shape, it is a "self-draw win". The player should declare "win", "wu" or "zimo" to announce the win.
+3. Claim Win: when a tile discarded by another player exactly completes the winning shape, one may declare "win" or "wu" and take that tile to complete the win. This is a "claim win"; the act of discarding that tile is "ceding".
+4. On winning, reveal the undeclared tiles and lay out the winning shape, split into open-meld and concealed-meld areas, then score by this winning shape; after the other players confirm the winning shape and the calculated score are correct, the scores are paid (see "Winning Shape", "Scoring" and "Payment").
 5. As long as the winning shape is valid, one may win regardless of whether there are points; there is no restriction other than fake waiting.
 
 ### Washout ###
-When 14 tiles remain in the wall after draw-and-discard, these 14 tiles are called the "dead wall"; they may not be moved and must stay face down until the next round begins. If the tile then discarded (the last discard) is not won by anyone, a washout is declared: all scores stay unchanged, and the deal passes to the next round.
+When 14 tiles remain in the wall after draw-and-discard, these 14 tiles are called the "dead wall"; they may not be moved and must stay face down until the next round begins. If the tile then discarded (the river end) is not won by anyone, a washout is declared: all scores stay unchanged, and the deal passes to the next round.
 
 ## End ##
 After the final round ends in a win or a washout, the game ends.
 
 # Winning Shape #
-1. There are two classes. A basic winning shape consists of one pair and 4 melds, 14 tiles in total (where a quartet counted as 3 tiles); each meld may be a "sequence", "triplet", or "quartet" from the basic melds. Special shapes are described in scores; there are two: "Seven Pairs" and "Thirteen Orphans".
+1. There are two classes. A basic winning shape consists of one pair and 4 melds, 14 tiles in total (with a quartet counted as 3 tiles); each meld may be a "sequence", "triplet", or "quartet" from the basic melds. Special winning shapes are described in the pattern descriptions; there are two: "Seven Pairs" and "Thirteen Orphans".
 2. The hand must fully match a winning shape to win; claiming a win without matching counts as an "invalid win"; see the winning part of the penalties.
 3. As long as a winning shape is valid, one may still win with no scoring pattern at all; it simply scores nothing and is as effective as any scoring win.
 
@@ -150,14 +150,14 @@ To score, take the laid-out winning shape and sum the scores of all patterns the
 1. Before the previous seat discards into the river, one may not reach to draw a tile or block others' view of the river. Drawing that does not follow normal procedure may be treated as a "long hand".
 2. When the discarder's next seat draws a tile from the wall head, they are deemed to have given up claiming the discarder's tile.
 3. Discarding before drawing is treated as a "short hand".
-4. After the discarder discards, if the next seat has drawn and mixed the tile into their concealed portion, other players lose the right to claim that tile in the river.
-5. If after the discard the next seat has drawn but, before mixing it into the concealed portion, someone claims, the next seat must place the tile beside the wall head as their tile for the next draw.
+4. After the discarder discards, if the next seat has drawn and mixed the tile into their undeclared tiles, other players lose the right to claim that tile in the river.
+5. If after the discard the next seat has drawn but, before mixing it into the undeclared tiles, someone claims, the next seat must place the tile beside the wall head as their tile for the next draw.
 6. When discarding, one may not read out the name of the discarded tile. If this causes an opponent's illegal declaration, it is treated as a "long hand".
 
 ### Penalties ###
 
-1. Illegal draw: if a player draws the wrong tile or draws from the wall tail, the draw is treated as valid. If that tile has not been discarded, it becomes a live penalty tile; if the illegal draw happens to be a win by draw, it is treated as a long hand.
-2. Exposing wall tiles: if on draw one flip any tile at the wall head, one must draw that tile and it becomes a live penalty tile. If multiple tiles are flipped, it is treated as a long hand.
+1. Illegal draw: if a player draws the wrong tile or draws from the wall tail, the draw is treated as valid. If that tile has not been discarded, it becomes a live penalty tile; if the illegal draw happens to be a self-draw win, it is treated as a long hand.
+2. Exposing wall tiles: if, on one's own draw, one flips any tile at the wall head, one must draw that tile and it becomes a live penalty tile. If multiple tiles are flipped, it is treated as a long hand.
 3. Exposing an opponent's tiles: if one flips an opponent's hand, the flipped player may designate, among the flipper's tiles, as many tiles as were exposed to become live penalty tiles.
 
 ## Declaration ##
@@ -179,27 +179,27 @@ To score, take the laid-out winning shape and sum the scores of all patterns the
 
 1. Illegal declaration: if someone declares and reveals the meld but immediately finds the declaration incorrect, upon immediate correction the illegally revealed hand tiles become live penalty tiles.
 2. Changed declaration: if, after making a declaration but before revealing the meld, one changes one's mind to a different kind of declaration, there is no penalty if it is a legal declaration; an illegal declaration is treated as a retracted declaration.
-3. Retracted declaration: if someone declares chow, pung or kong for claiming discarded tile but changes their mind before revealing the meld, or has no correct meld to complete the declaration, then upon cancelling the declaration they must reveal two tiles as penalty tiles.
+3. Retracted declaration: if someone declares chow, pung or kong to claim a discarded tile but changes their mind before revealing the meld, or has no correct meld to complete the declaration, then upon cancelling the declaration they must reveal two tiles as penalty tiles.
 4. Retracted kong: if one declares kong after one's draw but changes one's mind before revealing the meld, or has no correct meld to complete the kong, cancelling the kong is allowed.
-5. Illegal meld: if, after declaring and revealing the meld, once anyone draws a tile from the wall or a discard is claimed, the open meld is found not to meet the sequence or triplet rules of the basic melds, one loses eligibility to win this round. If a quartet is found to be wrong after a replacement draw, besides losing eligibility to win, one may also no longer declare or make a kong.
+5. Illegal meld: if, after declaring and revealing the meld, the open meld is found not to meet the sequence or triplet rules of the basic melds once anyone has drawn a tile from the wall or a discarded tile has been claimed, one loses eligibility to win this round. If a quartet is found to be wrong after a boon draw, besides losing eligibility to win, one may also no longer declare or make a kong.
 6. Invalid win: if someone declares a win and reveals their whole hand, then the win is found incorrect, it is the same as an illegal declaration: the revealed hand tiles become penalty tiles and the round continues.
 7. Retracted win: if someone declares a win but changes their mind before revealing the hand, or finds they cannot correctly win, then upon cancelling the win, a referee designates three tiles to reveal as penalty tiles. If there is no referee, the other three players each designate one different tile to reveal. If the retracted-winner has three or fewer hand tiles, all must be revealed.
-8. Before a win is confirmed valid, any hand that the other three players reveal after declaring win are deemed an illegal exposure; if the win is found to be an invalid win, the round continues and all illegally revealed tiles become penalty tiles.
+8. Before a win is confirmed valid, any hand tiles the other three players reveal after a win is announced are deemed an illegal exposure; if the win is found to be an invalid win, the round continues and all illegally revealed tiles become penalty tiles.
 
 ## Penalty Tiles ##
 
 1. If a player illegally reveals tiles from their hand, the exposed tiles must stay face up on the table, called a "live penalty tile".
 2. A live penalty tile may be discarded on the first discard after it became a live penalty tile; thereafter it becomes a "dead penalty tile" and may no longer be discarded.
-3. Penalty tiles are placed between the concealed portion and the wall; if the wall nearest oneself has been drawn out, place them between the river and the concealed portion, clearly separated from the river. Live penalty tiles are placed to the right of dead penalty tiles, clearly separated.
-4. Penalty tiles may not be used to form open melds; a declaration may only form an open meld from tiles in the concealed portion and the tile discarded into the river.
+3. Penalty tiles are placed between the undeclared tiles and the wall; if the wall nearest oneself has been drawn out, place them between the river and the undeclared tiles, clearly separated from the river. Live penalty tiles are placed to the right of dead penalty tiles, clearly separated.
+4. Penalty tiles may not be used to form open melds; a declaration may only form an open meld from tiles in the undeclared tiles and the tile discarded into the river.
 5. If a player attempts to claim with a penalty tile, it is handled as an illegal chow, illegal pung, illegal kong or invalid win by declaration type.
-6. In special winning shapes, "Seven Pairs" cannot win by claiming the same kind of any penalty tiles; "Thirteen Orphans" cannot win by claiming the same kind of any penalty tiles, and when the penalty tiles are more than 3, the player can only win by draw.
-7. Penalty tiles restrict only open melds. A penalty tile may be used to make a concealed kong, and may also win by draw.
+6. In special winning shapes, "Seven Pairs" cannot win by claiming the same kind of any penalty tiles; "Thirteen Orphans" cannot win by claiming the same kind of any penalty tiles, and with three or more penalty tiles, the player may win only by self-draw.
+7. Penalty tiles restrict only open melds. A penalty tile may be used to make a concealed kong, and may also win by self-draw.
 
 ## Dead Hand ##
 
 1. If someone is found to have a mismatched tile count in their hand, they lose eligibility to win this round, called a "dead hand".
-2. Each player's concealed portion and open melds, with a quartet counted as one meld of 3 tiles, total 13 tiles when it is not their turn to discard; before their own discard, after a claim or draw, they should have 14 tiles.
+2. Each player's undeclared tiles and open melds, with a quartet counted as one meld of 3 tiles, total 13 tiles when it is not their turn to discard; before their own discard, after a claim or draw, they should have 14 tiles.
 3. If the hand is short, it is a "short hand": eligibility to win this round is lost and the player cannot win.
 4. If the hand is excessive, it is a "long hand": eligibility to win this round is lost and the player may make no declaration of any kind.
 5. The above applies to dead hands caused by carelessness. Deliberate offenders should receive additional punishment.
@@ -207,14 +207,14 @@ To score, take the laid-out winning shape and sum the scores of all patterns the
 ## Win ##
 
 1. A general winning shape is laid out in five groups of 2, 3, 3, 3, 3; the tile won by discard is laid sideways to show it as an open meld. Open melds must indicate which player the tile came from; concealed melds must have no sideways tile, for easy identification. Among special winning shapes, Seven Pairs is laid out as seven pairs; Thirteen Orphans is split into three groups -- the terminal tiles, the honor tiles, and the one duplicated tile -- for easy identification.
-2. Except for an invalid win, a retracted win, a win by discard on a penalty tile, and "fake waiting", any tiles satisfying the winning shape may win.
+2. Except for an invalid win, a retracted win, a claim win on a penalty tile, and "fake waiting", any tiles satisfying the winning shape may win.
 3. If the winning shape has no pattern, it is a "patternless win", scored as zero points; otherwise it is the same as any ordinary scoring win.
 
 ### Fake Waiting ###
 
 There are two kinds; a fake-waiting win is treated as a retracted win or an invalid win depending on whether the hand is exposed.
-1. Fake waiting by own discard: the winner may not win by discard on any tile of the same kind as a tile they have discarded, called "fake waiting by own discard". Win by draw is not subject to this, nor are the other winnable tiles.
-2. Fake waiting by same-cycle discard: after the winner discards a tile, until they next draw and discard is called "one cycle"; if a winnable tile appears and they do not declare a win, within the same cycle they may not win by discard on the same kind of tile, though other winnable kinds may still win.
+1. Fake waiting by own discard: the winner may not win by claiming on any tile of the same kind as a tile they have discarded, called "fake waiting by own discard". A self-drawn win is not subject to this, nor are the other winnable tiles.
+2. Fake waiting by same-orbit discard: the span from the winner's discard until their next draw-and-discard is called "one orbit"; if a winnable tile appears and they do not declare a win, within the same orbit they may not win by claiming on the same kind of tile, though other winnable kinds may still win.
 
 
 [1]: https://www.worldmahjong.com/zh-hant/%e6%af%94%e8%b3%bd%e8%a6%8f%e5%89%87-2/%e6%af%94%e8%b3%bd%e8%a6%8f%E5%89%87/ "World Mahjong Championship"
