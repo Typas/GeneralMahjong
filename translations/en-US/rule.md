@@ -108,7 +108,7 @@ When another player makes an "added kong" and that tile is exactly one of the ti
 2. Self-Draw Win: during draw-and-discard, when the drawn tile exactly completes the winning shape, it is a "self-draw win". The player should declare "win", "wu" or "zimo" to announce the win.
 3. Claim Win: when a tile discarded by another player exactly completes the winning shape, one may declare "win" or "wu" and take that tile to complete the win. This is a "claim win"; the act of discarding that tile is "ceding".
 4. On winning, reveal the undeclared tiles and lay out the winning shape, split into open-meld and concealed-meld areas, then score by this winning shape; after the other players confirm the winning shape and the calculated score are correct, the scores are paid (see "Winning Shape", "Scoring" and "Payment").
-5. As long as the winning shape is valid, one may win regardless of whether there are points; there is no restriction other than fake waiting.
+5. As long as the winning shape is valid, one may win regardless of whether there are points; there is no restriction other than barred waiting.
 
 ### Washout ###
 When 14 tiles remain in the wall after draw-and-discard, these 14 tiles are called the "dead wall"; they may not be moved and must stay face down until the next round begins. If the tile then discarded (the river end) is not won by anyone, a washout is declared: all scores stay unchanged, and the deal passes to the next round.
@@ -206,15 +206,15 @@ To score, take the laid-out winning shape and sum the scores of all patterns the
 
 ## Win ##
 
-1. A general winning shape is laid out in five groups of 2, 3, 3, 3, 3; the tile won by discard is laid sideways to show it as an open meld. Open melds must indicate which player the tile came from; concealed melds must have no sideways tile, for easy identification. Among special winning shapes, Seven Pairs is laid out as seven pairs; Thirteen Orphans is split into three groups -- the terminal tiles, the honor tiles, and the one duplicated tile -- for easy identification.
-2. Except for an invalid win, a retracted win, a claim win on a penalty tile, and "fake waiting", any tiles satisfying the winning shape may win.
+1. A general winning shape must be laid out in five groups of 2, 3, 3, 3, 3; the single tile of a claim win is laid sideways to show the meld is open. Open melds must indicate which player they were taken from; concealed melds must have no sideways tile, for easy identification. Among special winning shapes, Seven Pairs is laid out as seven pairs; Thirteen Orphans is split into three groups -- the terminal tiles, the honor tiles, and the one duplicated tile -- for easy identification.
+2. Except for an invalid win, a retracted win, a claim win on a penalty tile, and "barred waiting", any tiles satisfying the winning shape may win.
 3. If the winning shape has no pattern, it is a "patternless win", scored as zero points; otherwise it is the same as any ordinary scoring win.
 
-### Fake Waiting ###
+### Barred Waiting ###
 
-There are two kinds; a fake-waiting win is treated as a retracted win or an invalid win depending on whether the hand is exposed.
-1. Fake waiting by own discard: the winner may not win by claiming on any tile of the same kind as a tile they have discarded, called "fake waiting by own discard". A self-drawn win is not subject to this, nor are the other winnable tiles.
-2. Fake waiting by same-orbit discard: the span from the winner's discard until their next draw-and-discard is called "one orbit"; if a winnable tile appears and they do not declare a win, within the same orbit they may not win by claiming on the same kind of tile, though other winnable kinds may still win.
+There are two kinds; a barred-waiting win is treated as a retracted win or an invalid win depending on whether the hand is exposed.
+1. Own-discard barred waiting: the winner may not win by claiming on any tile of the same kind as a tile they have discarded. A self-draw win is not subject to this, nor are the other winnable tiles.
+2. Same-orbit barred waiting: the span from the winner's discard until their next draw-and-discard is an "orbit". If a winnable tile appears and they do not declare a win, they may not win by claiming on that kind for the rest of that orbit, though other winnable kinds may still win.
 
 
 [1]: https://www.worldmahjong.com/zh-hant/%e6%af%94%e8%b3%bd%e8%a6%8f%e5%89%87-2/%e6%af%94%e8%b3%bd%e8%a6%8f%E5%89%87/ "World Mahjong Championship"
